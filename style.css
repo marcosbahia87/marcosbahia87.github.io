@@ -1,0 +1,24 @@
+#nomeCompleto {
+	font-family: Arial, sans-serif;
+
+}
+
+body {
+	background-color: #0096C7;
+}
+
+#tituloHabilidades {
+	font-family: Arial, sans-serif;
+	color: #03045E;
+}
+
+.destaque {
+	text-decoration: none;
+	color: #03045E;
+	font-weight: bold;
+}
+
+.destaqueTamanho {
+	text-decoration: none;
+	font-size: 18px;
+}
